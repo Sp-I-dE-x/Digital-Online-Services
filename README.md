@@ -5,7 +5,8 @@ Software Development · Automation · Digital Products
 </p>
 
 <p align="center">
-  <a href="https://digital-services.online"><img src="https://img.shields.io/badge/Website-digital--services.online-0D8BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" /></a>
+  <a href="https://digital-services.online"><img src="https://img.shields.io/badge/Website-Visit%20Our%20Website-0D8BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" /></a>
+  <a href="https://t.me/+wQKZ_ScFE0tiMGY0"><img src="https://img.shields.io/badge/Telegram-Join%20Our%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram channel" /></a>
   <a href="https://github.com/Sp-I-dE-X?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
 </p>
 
@@ -20,6 +21,7 @@ Digital Online Services builds software and digital tools designed to solve prac
 - 🔌 API integrations, backend systems, and databases
 - 📦 Custom software, utilities, and digital products
 🌍 Website: digital-services.online
+📢 Telegram Channel: Join Digital Online Services
 🛠️ Services
 <table>
   <tr>
@@ -86,6 +88,7 @@ Browse the repositories for available code, tools, experiments, and development 
 Have a project idea or need a custom digital solution? Share your requirements and let's discuss what can be built.
 <p align="center">
   <a href="https://digital-services.online"><img src="https://img.shields.io/badge/Visit%20Website-00A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" /></a>
+  <a href="https://t.me/+wQKZ_ScFE0tiMGY0"><img src="https://img.shields.io/badge/Join%20Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram channel" /></a>
   <a href="https://github.com/Sp-I-dE-X?tab=repositories"><img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
 </p>
 
