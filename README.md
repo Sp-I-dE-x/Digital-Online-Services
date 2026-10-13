@@ -1,139 +1,96 @@
-# 🌐 Digital Online Services
-### Software Development • Automation • Digital Products
-
+🌐 Digital Online Services
+Software Development · Automation · Digital Products
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:155eef,100:00c6ff&height=220&section=header&text=Digital%20Online%20Services&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Building%20Digital%20Solutions%20That%20Work&descAlignY=58&descSize=16" width="100%" alt="Digital Online Services banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:155eef,100:00c6ff&height=210&section=header&text=Digital%20Online%20Services&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Building%20Digital%20Solutions%20That%20Work&descAlignY=58&descSize=15" width="100%" alt="Digital Online Services banner" />
 </p>
 
 <p align="center">
-  <a href="https://digital-services.online"><img src="https://img.shields.io/badge/Website-Visit%20Portfolio-0D8BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://github.com/Sp-I-dE-X"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://digital-services.online"><img src="https://img.shields.io/badge/Website-digital--services.online-0D8BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" /></a>
+  <a href="https://github.com/Sp-I-dE-X?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
 </p>
 
-<p align="center">
-  <b>Turning ideas into functional, efficient, and scalable digital solutions.</b>
-</p>
+<p align="center"><strong>Turning ideas into practical, reliable, and scalable digital solutions.</strong></p>
 
----
-
-## 👨‍💻 About Digital Online Services
-
-Digital Online Services focuses on building practical software, web applications, automation systems, bots, and digital products.
-
-The goal is simple: develop reliable solutions that solve real problems, streamline repetitive tasks, and help businesses establish and improve their digital presence.
-
-- 🌐 Website and web application development
-- 🧩 WordPress themes, plugins, and custom functionality
-- 🤖 Telegram bots and chat automation
-- ⚙️ Python scripts and workflow automation
-- 🔌 API integrations and backend systems
-- 📦 Digital products and reusable development tools
-
-🌍 **Website:** https://digital-services.online
-
----
-
-## 🛠️ Services
-
+👋 About Us
+Digital Online Services builds software and digital tools designed to solve practical problems, streamline workflows, and support online businesses.
+- 🌐 Websites and web applications
+- 🧩 WordPress themes, plugins, and customizations
+- 🤖 Telegram bots and chatbot workflows
+- ⚙️ Python scripts and task automation
+- 🔌 API integrations, backend systems, and databases
+- 📦 Custom software, utilities, and digital products
+🌍 Website: digital-services.online
+🛠️ Services
 <table>
-<tr>
-<td width="50%">
-
-### 🌐 Web Development
-Responsive websites, web applications, backend functionality, and business websites.
-
-</td>
-<td width="50%">
-
-### 🧩 WordPress Development
-Custom themes, plugins, extensions, and website functionality.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Bot Development
-Telegram bots, automated replies, file management, and custom bot workflows.
-
-</td>
-<td width="50%">
-
-### ⚡ Automation & Scripts
-Python utilities, scheduled tasks, workflow automation, and data processing.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔌 APIs & Backend
-API integrations, database systems, server-side applications, and service connectivity.
-
-</td>
-<td width="50%">
-
-### 📦 Digital Products
-Reusable scripts, software utilities, plugins, and practical digital tools.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Development</h3>
+      Responsive websites, landing pages, and web applications.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 WordPress Development</h3>
+      Custom themes, plugins, integrations, and website improvements.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Bots & Chatbots</h3>
+      Telegram bots, automated replies, and custom bot workflows.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Automation & Scripts</h3>
+      Python utilities, repetitive-task automation, and data processing.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔌 APIs & Backend</h3>
+      API integrations, database solutions, and server-side functionality.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Custom Digital Products</h3>
+      Software utilities, reusable tools, and tailored digital solutions.
+    </td>
+  </tr>
 </table>
 
----
-
-## 💻 Technology Stack
-
+💻 Technology Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,wordpress,mysql,sqlite,git,github,linux,bash,vscode,docker&perline=7" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,wordpress,mysql,sqlite,git,github,linux,bash,vscode,docker&perline=7" alt="Technologies used" />
 </p>
 
-**Core interests:** Backend development · REST APIs · Automation · Databases · Web technologies · Software tooling
+<p align="center">Backend Development · REST APIs · Automation · Databases · Web Technologies · Software Tools</p>
 
----
-
-## 🚀 Featured Projects
-
-Explore the repositories below for development projects, tools, experiments, and software solutions.
-
+🚀 Explore Projects
+Browse the repositories for available code, tools, experiments, and development work.
 <p align="center">
-  <a href="https://github.com/Sp-I-dE-X?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20Repositories-View%20All%20Projects-155EEF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-  </a>
+  <a href="https://github.com/Sp-I-dE-X?tab=repositories"><img src="https://img.shields.io/badge/Browse%20Repositories-View%20Projects-155EEF?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
 </p>
 
-**Project categories**
-
-- 🌐 Websites and web applications
-- 🧩 WordPress themes and plugins
-- 🤖 Telegram bots and automation systems
-- 🐍 Python scripts and utilities
-- 🔌 API integrations and backend tools
-- 📦 Digital products and reusable software
-
----
-
-## 📊 GitHub Overview
-
+📊 GitHub Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sp-I-dE-X&theme=tokyonight" width="100%" alt="GitHub profile summary"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sp-I-dE-X&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp-I-dE-X&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sp-I-dE-X&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp-I-dE-X&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Most used languages"/>
+  <img src="https://streak-stats.demolab.com?user=Sp-I-dE-X&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sp-I-dE-X&theme=tokyonight&hide_border=true" width="70%" alt="Contribution streak"/>
+  <img src="https://img.shields.io/github/followers/Sp-I-dE-X?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Sp-I-dE-X?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
 </p>
 
+🤝 Contact
+Have a project idea or need a custom digital solution? Share your requirements and let's discuss what can be built.
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Sp-I-dE-X?style=for-the-badge&logo=github&label=Followers&color=blue" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/Sp-I-dE-X?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/repo-size/Sp-I-dE-X/Sp-I-dE-X?style=for-the-badge&logo=github&label=Profile%20Repo" alt="Profile repository size"/>
+  <a href="https://digital-services.online"><img src="https://img.shields.io/badge/Visit%20Website-00A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" /></a>
+  <a href="https://github.com/Sp-I-dE-X?tab=repositories"><img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
 </p>
 
+<p align="center"><em>Digital Online Services — Building useful digital solutions, one project at a time.</em></p>
+
 <p align="center">
-  <i>Continuously building, improving, and sharing digital solutions.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:155eef,100:050816&height=100&section=footer" width="100%" alt="Footer banner" />
 </p>
