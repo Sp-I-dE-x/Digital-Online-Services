@@ -4,10 +4,17 @@ Software Development · Automation · Digital Products
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:155eef,100:00c6ff&height=210&section=header&text=Digital%20Online%20Services&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Building%20Digital%20Solutions%20That%20Work&descAlignY=58&descSize=15" width="100%" alt="Digital Online Services banner" />
 </p>
 
+<h2 align="center">🚀 Need a Digital Solution? Let's Build It.</h2>
+<p align="center"><strong>Explore our services, ask a question, or contact us about your project.</strong></p>
+
 <p align="center">
-  <a href="https://digital-services.online"><img src="https://img.shields.io/badge/Website-Visit%20Our%20Website-0D8BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" /></a>
-  <a href="https://t.me/+wQKZ_ScFE0tiMGY0"><img src="https://img.shields.io/badge/Telegram-Join%20Our%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram channel" /></a>
-  <a href="https://github.com/Sp-I-dE-X?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
+  <a href="https://digital-services.online"><img src="https://img.shields.io/badge/🌐_VISIT_OUR_WEBSITE-Explore_Services_%26_Get_a_Quote-087CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Digital Online Services website and request a quote" /></a>
+</p>
+<p align="center">
+  <a href="https://t.me/+wQKZ_ScFE0tiMGY0"><img src="https://img.shields.io/badge/✈️_JOIN_OUR_TELEGRAM_CHANNEL-Updates_%7C_News_%7C_Announcements-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Join the Digital Online Services Telegram channel" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sp-I-dE-X?tab=repositories"><img src="https://img.shields.io/badge/⌘_EXPLORE_GITHUB-View_Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
 </p>
 
 <p align="center"><strong>Turning ideas into practical, reliable, and scalable digital solutions.</strong></p>
@@ -86,10 +93,16 @@ Browse the repositories for available code, tools, experiments, and development 
 
 🤝 Contact
 Have a project idea or need a custom digital solution? Share your requirements and let's discuss what can be built.
+<p align="center"><strong>Ready to start? Tell us what you need and get in touch today.</strong></p>
+
 <p align="center">
-  <a href="https://digital-services.online"><img src="https://img.shields.io/badge/Visit%20Website-00A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" /></a>
-  <a href="https://t.me/+wQKZ_ScFE0tiMGY0"><img src="https://img.shields.io/badge/Join%20Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram channel" /></a>
-  <a href="https://github.com/Sp-I-dE-X?tab=repositories"><img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
+  <a href="https://digital-services.online"><img src="https://img.shields.io/badge/🌐_START_HERE-Visit_Our_Website_%26_Request_a_Quote-087CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit our website and request a quote" /></a>
+</p>
+<p align="center">
+  <a href="https://t.me/+wQKZ_ScFE0tiMGY0"><img src="https://img.shields.io/badge/✈️_JOIN_THE_CHANNEL-Connect_with_Digital_Online_Services-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Join our Telegram channel" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sp-I-dE-X?tab=repositories"><img src="https://img.shields.io/badge/⌘_EXPLORE_PROJECTS-See_Our_GitHub_Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
 </p>
 
 <p align="center"><em>Digital Online Services — Building useful digital solutions, one project at a time.</em></p>
